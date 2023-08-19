@@ -20,9 +20,6 @@
 
 **Client:** React, Redux, React-Bootstrap , Bootstrap , Context API
 
-**Server:** Firebase Realtime Database, Firebase Authentication
-
-
 ## Run Locally
 
 Install dependencies
