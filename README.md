@@ -25,14 +25,6 @@
 
 ## Run Locally
 
-
-
-Go to the project directory
-
-```bash
-  cd hotel-management-system
-```
-
 Install dependencies
 
 ```bash
